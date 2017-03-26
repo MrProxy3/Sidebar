@@ -1,0 +1,13 @@
+//---------------vars
+$blue: #33c1e3;
+$white: #f6f6f6;
+$green: #9f3;
+$orange: #f96;
+
+//---------------layout
+@import "_misc/adjustment.scss";
+
+//---------------styles
+@import "content/header.scss";
+@import "content/wraper.scss";
+@import "content/footer.scss";
